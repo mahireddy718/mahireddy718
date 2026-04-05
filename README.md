@@ -114,6 +114,8 @@ const MahendraReddy = {
 
 Full-stack task management application with user authentication, CRUD operations, and intuitive UI for tracking daily tasks and goals.
 
+**[🌐 Live Demo](https://task-manager-psi-rust.vercel.app)** | **[📁 GitHub](https://github.com/mahireddy718/Task_Manager)**
+
 ---
 
 ### 🌐 Portfolio Website
@@ -123,6 +125,8 @@ Full-stack task management application with user authentication, CRUD operations
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 A clean, modern portfolio website highlighting my skills, projects, and professional journey as a Full-Stack Developer.
+
+**[🌐 Live Demo](https://portfolio-dusky-six-1nrk6k83yn.vercel.app)** | **[📁 GitHub](https://github.com/mahireddy718/portfolio)**
 
 ---
 
