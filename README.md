@@ -1,9 +1,9 @@
 <div align="center">
 
-```
-<h1 align="center">Mahendra</h1>
-<h1 align="center">Reddy</h1>
-```
+<h1>Mahendra</h1>
+<h1>Reddy</h1>
+
+<p><sub>F U L L - S T A C K &nbsp; D E V E L O P E R</sub></p>
 
 ### ⚡ Full-Stack Developer · MERN Stack · Problem Solver
 
@@ -91,13 +91,19 @@ const mahendraReddy = {
 
 ---
 
-### 📣 Marketing Website
-> Modern, responsive marketing landing page
+### 📣 Marketing Website — Full-Stack Marketing Platform
+> Modern, real-time marketing platform with gamification & AI features
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![APIs](https://img.shields.io/badge/Multiple-APIs-blue?style=flat-square)
 
-A fully responsive marketing website built with React, featuring smooth animations, modern UI design, and optimized performance.
+**Key Features:**
+- 🔐 JWT authentication & authorization
+- 📡 Real-time APIs & live data updates
+- 🎮 Gamification system for user engagement
+- 🤖 Gemini AI integration
+- 💳 Razorpay payment integration
+- 📧 Nodemailer for transactional emails
 
 ---
 
