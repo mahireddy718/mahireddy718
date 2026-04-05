@@ -52,6 +52,14 @@ const mahendraReddy = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**APIs & Services**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 **Languages & Tools**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -66,12 +74,63 @@ const mahendraReddy = {
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 **Virtual Storefront** | Full-featured e-commerce application | React, Node.js, MongoDB |
-| ✅ **Task Manager** | Productivity app with real-time updates | MERN Stack |
-| 📣 **Marketing Website** | Modern, responsive landing page | React, CSS3 |
-| 💼 **FreelanceCo** | Full-stack freelancing marketplace platform | MERN, Socket.io, Razorpay |
+### 💼 FreelanceCo — Full-Stack Freelancing Marketplace
+> A production-grade freelancing platform connecting clients and freelancers
+
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![APIs](https://img.shields.io/badge/Integrated-9+%20APIs-blue?style=flat-square)
+![Live](https://img.shields.io/badge/Live-Deployed-success?style=flat-square)
+
+**Key Features:**
+- 🔐 Firebase Auth + JWT + Cloudflare Turnstile CAPTCHA
+- 💳 Razorpay payment gateway with webhook integration
+- 💬 Real-time chat with Socket.io
+- 🤖 AI-powered features with Gemini API
+- 📧 Transactional emails via Brevo
+- ⚡ Redis caching with Upstash
+- ☁️ Cloudinary image uploads
+- 📊 Admin dashboard with analytics
+- 🔔 Real-time notifications
+
+**[🌐 Live Demo](https://freelanceco-six.vercel.app)** | **[📁 GitHub](https://github.com/mahireddy718/FreelanceCo)**
+
+---
+
+### 📣 Marketing Website
+> Modern, responsive marketing landing page
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+A fully responsive marketing website built with React, featuring smooth animations, modern UI design, and optimized performance.
+
+---
+
+### ✅ Task Manager Application
+> Productivity app for managing tasks efficiently
+
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+
+Full-stack task management application with user authentication, CRUD operations, and intuitive UI for tracking daily tasks and goals.
+
+---
+
+### 🌐 Portfolio Website
+> Personal developer portfolio showcasing projects and skills
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+A clean, modern portfolio website highlighting my skills, projects, and professional journey as a Full-Stack Developer.
+
+---
+
+### 🛒 Virtual Storefront
+> Feature-rich e-commerce application
+
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+
+An e-commerce platform with product listings, shopping cart, user authentication, and order management built with the MERN stack.
 
 ---
 
