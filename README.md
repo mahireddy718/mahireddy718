@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 ```javascript
-const mahendraReddy = {
+const MahendraReddy = {
   role: "Full-Stack Developer",
   stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
   languages: ["JavaScript", "C", "C++"],
@@ -129,9 +129,11 @@ A clean, modern portfolio website highlighting my skills, projects, and professi
 ### 🛒 Virtual Storefront
 > Feature-rich e-commerce application
 
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-An e-commerce platform with product listings, shopping cart, user authentication, and order management built with the MERN stack.
+An e-commerce platform with product listings, shopping cart, user authentication, and order management built with PHP, MySQL, and Tailwind CSS.
 
 ---
 
