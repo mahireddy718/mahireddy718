@@ -91,7 +91,7 @@ const MahendraReddy = {
 
 ---
 
-### 📣 Marketing Website — Full-Stack Marketing Platform
+### 📣 MarketGen AI — AI-Powered E-Commerce Marketing Platform
 > Modern, real-time marketing platform with gamification & AI features
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
@@ -104,6 +104,8 @@ const MahendraReddy = {
 - 🤖 Gemini AI integration
 - 💳 Razorpay payment integration
 - 📧 Nodemailer for transactional emails
+
+**[🌐 Live Demo](https://marketgen-ai-ecommerce.vercel.app)** | **[📁 GitHub](https://github.com/mahireddy718/marketingwebsite)**
 
 ---
 
