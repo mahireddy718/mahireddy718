@@ -9,6 +9,3 @@ Skills
 
 Languages: Python, C++, Java, JavaScript, SQL Frontend: React.js, HTML5, CSS3, Tailwind CSS Backend: Node.js, Express.js Databases: MongoDB, MySQL Tools: Git, GitHub, Postman, Firebase, Vercel, Render Concepts: OOPs, DSA, DBMS, OS, CN
 
-Connect
-
-Email · LinkedIn
