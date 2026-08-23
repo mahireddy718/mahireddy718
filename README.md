@@ -45,11 +45,3 @@
 **Concepts:** OOPs · DSA · DBMS · OS · CN
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahireddy718&show_icons=true&theme=radical" alt="Mahendra's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahireddy718&theme=radical" alt="Mahendra's GitHub Streak" />
-</p>
