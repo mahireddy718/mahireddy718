@@ -7,7 +7,7 @@
 ### Projects I Built
 
 - **[FreelanceCo](https://github.com/mahireddy718/FreelanceCo)** — A full-stack freelancing marketplace where clients post projects and freelancers manage contracts end-to-end, with real-time chat, Redis caching, and Razorpay payments.
-- **[MarketZenAI](https://github.com/mahireddy718/MarketZenAI)** — An AI-powered skincare e-commerce platform using Google Gemini for skin analysis and personalized product recommendations.
+- **[MarketZenAI](https://github.com/mahireddy718/MarketZen)** — An AI-powered skincare e-commerce platform using Google Gemini for skin analysis and personalized product recommendations.
 - **[Task Manager](https://github.com/mahireddy718/Task-Manager)** — A full-stack productivity app for tracking tasks with authentication and CRUD operations.
 - **[LPU Touch Replica](https://github.com/mahireddy718/LPU-Touch-Replica)** — A Flutter mobile app replicating university services across 6+ campus modules with Firebase real-time sync.
 
